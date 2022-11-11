@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LuizHemerich1
+- I am a programming student
+- I participate in Alura courses
+- 👀 I’m interested in physical education and agribusiness
+- My contact email is [email](luiz.hemerich@escola.pr.gov.br)
